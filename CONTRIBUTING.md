@@ -13,6 +13,7 @@ Copy example.html to a new file.
 
 The new file should be named as title-of-your-article.html and stored in the root directory.
 
+Do NOT contribute to the master branch.
 
 #Contributing outside of Github
 
