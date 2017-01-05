@@ -69,3 +69,4 @@ They’re not well formulated yet, but if you’d like to start working on full 
 * Don’t ignore my existence
 * Don’t mention my deadname
     * Our deadnames are the names we were called before we came out, most likely birth names. Hearing them stings!
+* Please don't be afraid to ask politly.
