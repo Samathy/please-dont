@@ -1,39 +1,11 @@
 # please-dont
 A website with non-aggressive LGBT+ issue explanations for Cis/Het people
 
-Please-Don't aims to provide easy, quick to read explanations to why some things cis/het people say to trans people are offensive and/or upsetting.
-
-Please-Don't articles will be non-aggressive and targeted as being the page to link to when trying to explain something to a cis person.
-
-We're targeting situations, especially on the internet, when you or someone else has been asked something that is commonly deemed to be intrusive, offensive, or hurtful.
-
-**We want to keep the tone friendly and calm, making the explanation free of anger and aggression.**
-
-I don't believe arguing in an aggressive way to be the best way of getting a cis (or any) person to understand and accept a point. Often they don’t realise they've offended you at all and don't understand why you’re upset.
-
-While you may be upset and offended (and that's *totally* okay), responding with aggression to any argument is counter-productive to getting a person to accept the argument and make a change.
-
-Please-Don't aims to provide little explanations that you can link to even if you’re annoyed. Hopefully this will make the person asking the offensive question understand what they've done!
-
-Please-Don't is available at:
-* http://please-dont.info/
-* https://samathy.github.io/please-dont/
-
-##Call for Contributions
-We want Please-Don't to be a collaborative project. We can't (and don't want to) do it on our own!
-
-Please-Don't's maintainer, Samathy Barratt, will take contributions to [the Github repo](https://samathy.github.io/please-dont/) via [Twitter](https://www.twitter.com/Samathy_Barratt), or via [email](mailto:samathy@sbarratt.co.uk).
-
-I'm aiming for explanations to be around 200–300 concise words. I’ll play with this limit and see what works. Articles should contain citations and links where relevant and provide links for further reading.
-
-Titles for the articles should be structured as short sentences preceded with "Please Don't". For example, "Please Don’t make a joke out of stating your pronouns".
-
-If you need more information, several pages are live at [Please-Don't.info](http://www.please-dont.info).
-
-Please, please get in contact if you’d like to write something!
+Please Don't aims to provide explainations for issues across the LGBT+ Spectrum.
 
 Have a look at the gh-pages branch to see the HTML content!
 Do NOT contribute to the master branch.
+
 
 ###Contributing on Github
 
