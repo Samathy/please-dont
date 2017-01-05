@@ -1,6 +1,8 @@
 # please-dont
 A website with non-aggressive LGBT+ issue explanations for Cis/Het people
 
+Please Don't aims to provide explainations for issues across the LGBT+ Spectrum.
+
 Have a look at the gh-pages branch to see the HTML content!
 Do NOT contribute to the master branch.
 
