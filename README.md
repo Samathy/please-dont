@@ -44,18 +44,18 @@ Samathy here: Talk to me! If you’ve got ideas or skills that might help with t
 I tweeted asking for some suggestions, and received these.
 They’re not well formulated yet, but if you’d like to start working on full pieces for them, go ahead!!
 * Pronouns are not a joke.
-    Making saying your pronouns a joke makes us a joke. We already struggle for people to accept our pronouns.
-    Don’t assume pronouns are obvious - especially yours.
+    * Making saying your pronouns a joke makes us a joke. We already struggle for people to accept our pronouns.
+    * Don’t assume pronouns are obvious - especially yours.
 * Don’t assume someone isnt trans
-    He might though! This is internalised transphobia
+    * He might though! This is internalised transphobia
 * We don’t want a massive apology.
-    If you get a name/pronoun wrong. Just say sorry and try harder. Don’t make it a big thing.
+    * If you get a name/pronoun wrong. Just say sorry and try harder. Don’t make it a big thing.
 * Their name is their name. Deal with it.
-    Just listen to what they said their name is. (Don’t ask for old name)
-* What is Non-Binary
+    * Just listen to what they said their name is. (Don’t ask for old name)
+* What is Non-Binary?
 * Difference between transsexual and transgender
 * They/Them are real pronouns.
-* Don’t Ask me if I’m going on hormones
+* Don’t ask me if I’m going on hormones
 * Don’t ask if I’m having surgery
 * Don’t tell me I don't look trans
 * Why gender neutral bathrooms are a good idea
@@ -64,4 +64,4 @@ They’re not well formulated yet, but if you’d like to start working on full 
 * Being a woman doesn't mean I like very feminine things (clothing, colours)
 * Don’t ignore my existence
 * Don’t mention my deadname
-    Our deadnames are the names we were called before we came out, most likely birth names. Hearing them stings!
+    * Our deadnames are the names we were called before we came out, most likely birth names. Hearing them stings!
