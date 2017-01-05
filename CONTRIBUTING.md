@@ -1,7 +1,3 @@
-# please-dont
-A website with non-aggressive LGBT+ issue explanations for Cis/Het people
-
-
 #Contributing on Github
 
 Contributing on Github is simple.
