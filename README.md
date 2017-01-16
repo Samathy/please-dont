@@ -24,6 +24,7 @@ The new file should be named as title-of-your-article.html and stored in the roo
 
 ###Contributing outside of Github
 
+    * You can go to [please-dont.info/submit.html](http://please-dont.info/submit.html) and submit your idea on the form there.
     * Send me an email to samathy[AT]sbarratt[dot]co[dot]uk with your change.
     * Tweet me
     * DM me
